@@ -5,8 +5,8 @@ public class Add_Calc {
 	{
 
 //		This is my final code to be in master
-		int a = 40;
-		int b = 40;
+		int a = 70;
+		int b = 70;
 		int c;
 		c= a + b;
 		
